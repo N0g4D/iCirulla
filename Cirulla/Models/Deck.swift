@@ -22,9 +22,6 @@ enum Rank: String {
     case five = "5"
     case six = "6"
     case seven = "7"
-    case eight = "8"
-    case nine = "9"
-    case ten = "10"
     case jack = "Fante" // 1212?
     case queen = "Donna" // 1221?
     case king = "Re" // 12212??
