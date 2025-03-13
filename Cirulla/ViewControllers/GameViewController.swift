@@ -15,7 +15,7 @@ class GameViewController: BaseViewController {
     @IBOutlet weak var optionButton: UIButton!
     
     // MARK: Label
-    @IBOutlet weak var roundPlayerLabel: UILabel!
+    //@IBOutlet weak var roundPlayerLabel: UILabel!
     
     // MARK: ImageView G1
     @IBOutlet weak var g1Card1: UIImageView!
